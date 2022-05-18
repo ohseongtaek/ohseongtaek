@@ -14,7 +14,7 @@
 
 </a>
 
-![ohseongtaek' GitHub stats](https://github-readme-stats.vercel.app/api?username=ohseongtaek&show_icons=true&theme=merko)
+![ohseongtaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohseongtaek&show_icons=true&theme=merko)
 
 
 <!--
