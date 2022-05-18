@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋Hi there! I'm an Embedded and Security developer mainly using C++.
+dfsfsfsf
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 
