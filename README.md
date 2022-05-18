@@ -1,9 +1,16 @@
+# WelCome My Github
+
 ### 👋Hi there! I'm an Embedded and Security developer mainly using C++.
-### I started developing embedded in Linux and Unix environments, and now I am interested in security, so I am developing security!
+#### I started developing embedded in Linux and Unix environments, and now I am interested in security, so I am developing security!
 
+- I have hobbies about whiskey, running and mountaineering, and I am very interested.
+- Another big concern recently is Bitcoin automation.
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-
+<a href="https://www.instagram.com/ost_whiskey/">
+    <img 
+        src="http://img.shields.io/badge/-쓰고싶은텍스트-배경색(ex.222222)?style=flat&logo=아이콘명(ex.Instagram)&link=https://www.instagram.com/본인인스타아이디/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 
 <!--
