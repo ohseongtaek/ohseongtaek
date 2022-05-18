@@ -1,5 +1,7 @@
 ### 👋Hi there! I'm an Embedded and Security developer mainly using C++.
-dfsfsfsf
+## I started developing embedded in Linux and Unix environments, and now I am interested in security, so I am developing security!
+
+
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 
