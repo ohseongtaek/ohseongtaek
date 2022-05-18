@@ -8,8 +8,10 @@
 
 <a href="https://www.instagram.com/ost_whisky/">
     <img 
-        src="http://img.shields.io/badge/222222](https://img.shields.io/badge/-Instargram-blueviolet)?style=flat&logo=Instagram&link=https://www.instagram.com/ost_whisky/"
+        src="http://img.shields.io/badge/-Instargram-blueviolet?style=flat&logo=Instagram&link=https://www.instagram.com/ost_whisky/"
          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        
+
 </a>
 
 
