@@ -1,5 +1,8 @@
 # WelCome My Github
 
+
+## About Me
+
 ### 👋Hi there! I'm an Embedded and Security developer mainly using C++.
 #### I started developing embedded in Linux and Unix environments, and now I am interested in security, so I am developing security!
 
@@ -11,7 +14,7 @@
 - Another big concern recently is Bitcoin automation.
 
 
-## My Stack
+## Technology Stack
 
 #### Development Language
 
@@ -26,8 +29,12 @@
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=black"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=black"/> <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=black"/> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=black"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=black"/> <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=black"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=black"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=black"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/> <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=black"/>
 
 
+## Git Sstatus
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohseongtaek&show_icons=true&theme=radical)
 
+
+## BaekJoon Solved
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=post1594)](https://solved.ac/post1594/)
 
 
