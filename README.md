@@ -10,6 +10,9 @@
 
 - Another big concern recently is Bitcoin automation.
 
+
+## My Stack
+
 #### Development Language
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=black"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/-Objective%20C-orange"/>
