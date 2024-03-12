@@ -33,14 +33,29 @@
 <br></br>
 
 ## 3. 경력사항
-#### - 킹스정보통신(주) `재직중`
+#### 킹스정보통신(주) `재직중`
 *2021.06 입사 ~ 2022.08퇴사*
 *2022.12 입사 ~*
-#### - 서일대학교(직원)
+#### 서일대학교(직원)
 *2022.08 입사 ~ 2022.11퇴사*
-#### - 리드스피커코리아(주)
+#### 리드스피커코리아(주)
 *2020.01 입사 ~ 2021.05퇴사*
-
+- 프로젝트
+  - LG 전자 VS사업부 AVN개발 
+      - 환경 
+        - IDE : QT
+        - 엔진 : QNX
+        - 운영체제 : Unix 
+        - 개발언어 : C++
+      - 음성인식 
+        - DDFW 엔진을 통한 음성인식 엔진 연동
+        - Media(USB, Bluetooth, Apple CarPaly, Android Auto) 부분 음성인식 API 협의 및 개발
+        - Tuner(FM, AM, DAB, SXM) 부분 음성인식 API 협의 및 개발
+        - 음성인식 Setting 부분 계정별 설정 기능 개발 
+      - SXM Customize 개발 
+        - Favorite, Sports, Channel 목록화 기능 개발 및 유지보수 시퀀스 다이어그램 구성 
+        - 베트남팀과 협업을 통한 UI 설계 및 API 연동 
+        - trie Algorithm 을 이용한 KeyBoard Search 기능 향상 
 
 <!--<br></br>
 ## Git Status
