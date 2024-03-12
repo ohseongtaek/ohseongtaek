@@ -6,22 +6,13 @@ ___
 ___
 ### 일하는 습관 
 
-:heavy_check_mark: 다양한 기술을 접하고 체득하는것을 좋아하는 **필드 엔지니어** 입니다.
+:heavy_check_mark: 다양한 기술을 접하고 체득하는것을 좋아하는 **개발자** 입니다.
 
 :heavy_check_mark: 작업에 임하기 전/후에 더 **효과적인 방법**이 있을지 고민합니다.
 
 :heavy_check_mark: 이슈에 직면했을 때, **원인을 명확하게 파악**합니다.
 
 :heavy_check_mark: 휴일에 개인적인 프로젝트를 진행하며 **개발/유지보수 능력을 향상**시킵니다.
-
-
-- I have hobbies about whiskey, running and mountaineering, and I am very interested.<a href="https://www.instagram.com/ost_whisky/"><img 
-        src="http://img.shields.io/badge/-Instargram-blueviolet?style=flat&logo=Instagram&link=https://www.instagram.com/ost_whisky/"
-         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-- Another big concern recently is Bitcoin automation.
-
 
 <br></br>
 ## Technology Stack
