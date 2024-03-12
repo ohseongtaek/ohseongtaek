@@ -57,7 +57,10 @@
   - 공통
     - DLL Injection 기술 개발 및 Api hooking 기술을 통해 프린트 모듈 제어 개발 및 유지보수
     - 파일 서버 개발
-      - 
+      - Linux Log Server, Linux File Server Epoll 을 이용한 개발
+      - Windows Log Server - Windows Log Client 구조 및 헤더 설계와 IOCP 를 이용한 개발
+      - Windows File Server IOCP - Windows File Client IOCP 구조 및 헤더 설계와 IOCP을 이용한 개발
+      - 통신 모듈 개발에 필요한 OpenSSL Helper Class 개발
 
 ### 서일대학교(직원)
 *2022.08 입사 ~ 2022.11퇴사*
