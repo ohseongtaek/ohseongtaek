@@ -34,23 +34,85 @@
 
 ## 3. 경력사항
 #### 킹스정보통신(주) `재직중`
-*2021.06 입사 ~ 2022.08퇴사*
-
 *2022.12 재입사*
+- 환경 
+        - IDE : Visual Studio
+        - DB : Mysql, Sqlite3
+        - 운영체제 : Windows, Linux, MACOS
+        - 개발언어 : C/C++
+- 프로젝트
+  - DL E&C
+    - 스냅태그 SDK 연동 
+    - Print WaterMark Draw 로직 연구 및 개선을 통해 약 한장당 60초에서 0.2초로 단축
+    - OpenCV를 통한 이미지 투명화 및 이미지 용량 개선 
+  - 보안기능확인서
+    - OpenSSL을 이용한 정책 관련 통신모듈 개발 
+    - Key Chain 을 통한 암복호화 모듈 설계 및 개발 
+  - 기업은행
+    - 프로세스 차단 속도 개선을 위한 Thread 동기화 및 프로세스 리스트 목록화를 통한 속도 개선 
+    - 제어목록 해시화 및 DB연동을 통한 차단 설계 및 개발 
+    - OpenCV + Tesseract 을 통한 OCR 신규개발 
+      - 이미지 전처리를 통한 이미지 인식률 개선 15초에서 2초로 단축
+      - 이미지 텍스트 좌표 검출 및 개인정보 마스킹 기능 개발 
+  - 공통
+    - DLL Injection 기술 개발 및 Api hooking 기술을 통해 프린트 모듈 제어 개발 및 유지보수
+    - 파일 서버 개발
+      - 
 
 #### 서일대학교(직원)
 *2022.08 입사 ~ 2022.11퇴사*
+- 환경 
+        - IDE : Java 1.6, Xplatform 9.2, MyBuilder
+        - DB : 오라클 11g
+        - 운영체제 : Windows 
+        - 개발언어 : JAVA
+- 프로젝트
+  - 학사종합정보시스템
+    - MyBuilder 을 통한 Report 표시 기능 개발
+    - UxStudio - Tomcat - Oracle 구조를 통한 신규 페이지 개발
+    - DataSet 통신을 위한 Java개발 및 프로시저 호출을 위한 MyBatis 연동
+    - Oracle Table 설계 및 DB 프로시저 개발 
+  - 학교 유무선 네트워크 설계
+    - 교내 백본~강의실PC 까지 네트워크 설계
+    - 교내 무선 네트워크 통신 반경에 따른 설계
+    - User 및 강의실별 Vlan 설정 
 
-
+#### 킹스정보통신(주) `재직중`
+*2021.06 입사 ~ 2022.08퇴사*
+- 환경 
+        - IDE : Visual Studio
+        - DB : Mysql, Sqlite3
+        - 운영체제 : Windows, Linux, MACOS
+        - 개발언어 : C/C++
+- 프로젝트
+  - 신용협동조합
+    - Adobe Acrobat 관련 샌드박스 기능 연구 및 값 제어 개발
+    - MAC OS 기능 개발 (매체제어, 프린트제어, 패킷제어)
+    - MAC OS 앱 공증 및 배포스크립트 개발
+    - 문서 출력시 문서이름을 가져오는 로직 개선을 통한 보안 whole 제거
+  - KT Cloud
+    - VPN IP 획득로직 및 예외처리 개발
+    - HotSpot 을 통한 문자열 파싱(UTF-8검증 및 변환)로직 개발
+  - 보안기능확인서
+    - Server - Client 간 SSL 통신 모듈 개발(인증서 생성 및 Self Sign)
+    - SMTP 메일 전송 모듈 개발
+    - NSIS 툴에서 사용할수있는 plugin 프로젝트 개발 
+  - 공통
+    - Printer Driver 종류 확인하는 코드를 통해 오류제어 추가
+    - 프린트 원본로그 관련 Excel Gdip 그래픽 객체 관련 Hooking을 통해 정상원본로그 추출 기능 개발
+    - 출력정보 제어를 통해 들어온 정보를 재출력할수있는 기능 개발
+    - 프린트 제어 모듈 리팩토링을 통한 속도 개선
+      
 #### 리드스피커코리아(주)
 *2020.01 입사 ~ 2021.05퇴사*
-- 프로젝트
-  - LG 전자 VS사업부 AVN개발 
-      - 환경 
+- 환경 
         - IDE : QT
         - 엔진 : QNX
         - 운영체제 : Unix 
         - 개발언어 : C++
+- 프로젝트
+  - LG 전자 VS사업부 AVN개발 
+    
       - 음성인식 
         - DDFW 엔진을 통한 음성인식 엔진 연동
         - Media(USB, Bluetooth, Apple CarPaly, Android Auto) 부분 음성인식 API 협의 및 개발
