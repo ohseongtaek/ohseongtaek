@@ -20,7 +20,7 @@
 
 <br></br>
 
-## 2. 기술스택
+<span style="color:yellow">## 2. 기술스택
 #### 개발 언어 
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=black"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/-Objective%20C-orange"/>
 
