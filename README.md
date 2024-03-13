@@ -109,13 +109,12 @@
 ### 리드스피커코리아(주)
 *2020.01 입사 ~ 2021.05퇴사*
 - 환경
-        - IDE : QT
-        - 엔진 : QNX
-        - 운영체제 : Unix 
-        - 개발언어 : C++
+  - IDE : QT
+  - 엔진 : QNX
+  - 운영체제 : Unix 
+  - 개발언어 : C++
 - 프로젝트
-  - LG 전자 VS사업부 AVN개발 
-    
+  - LG 전자 VS사업부 AVN개발   
       - 음성인식 
         - DDFW 엔진을 통한 음성인식 엔진 연동
         - Media(USB, Bluetooth, Apple CarPaly, Android Auto) 부분 음성인식 API 협의 및 개발
