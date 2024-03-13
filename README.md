@@ -33,7 +33,7 @@
 <br></br>
 
 ## 3. 경력사항
-:heavy_check_mark: ### 킹스정보통신(주) `재직중`
+### 킹스정보통신(주) `재직중`
 *2022.12 재입사*
 - 환경 
         - IDE : Visual Studio
@@ -62,7 +62,7 @@
       - Windows File Server IOCP - Windows File Client IOCP 구조 및 헤더 설계와 IOCP을 이용한 개발
       - 통신 모듈 개발에 필요한 OpenSSL Helper Class 개발
 
-:heavy_check_mark: ### 서일대학교(직원)
+### 서일대학교(직원)
 *2022.08 입사 ~ 2022.11퇴사*
 - 환경 
         - IDE : Java 1.6, Xplatform 9.2, MyBuilder
@@ -80,7 +80,7 @@
     - 교내 무선 네트워크 통신 반경에 따른 설계
     - User 및 강의실별 Vlan 설정 
 
-:heavy_check_mark: ### 킹스정보통신(주) 
+### 킹스정보통신(주) 
 *2021.06 입사 ~ 2022.08퇴사*
 - 환경 
         - IDE : Visual Studio
@@ -106,7 +106,7 @@
     - 출력정보 제어를 통해 들어온 정보를 재출력할수있는 기능 개발
     - 프린트 제어 모듈 리팩토링을 통한 속도 개선
       
-:heavy_check_mark: ### 리드스피커코리아(주)
+### 리드스피커코리아(주)
 *2020.01 입사 ~ 2021.05퇴사*
 - 환경 
         - IDE : QT
@@ -129,15 +129,15 @@
 <br></br>
 
 ## 4. Repository
-### Sample_Code 
-### Information_Security_Project
-### Programmers_Algorithm Public
-### OCR
-### BaekJoon_Algorithm
-### MFC_Study
-### GAME
-### Study
-### SW_Expert_Academy
+:heavy_check_mark: Sample_Code 
+:heavy_check_mark: Information_Security_Project
+:heavy_check_mark: Programmers_Algorithm Public
+:heavy_check_mark: OCR
+:heavy_check_mark: BaekJoon_Algorithm
+:heavy_check_mark: MFC_Study
+:heavy_check_mark: GAME
+:heavy_check_mark: Study
+:heavy_check_mark: SW_Expert_Academy
 
 <!--<br></br>
 ## Git Status
