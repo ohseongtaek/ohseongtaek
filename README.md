@@ -151,7 +151,7 @@
 	- [ssl_communicator_verify](https://github.com/ohseongtaek/Sample_Code/tree/main/Project/ssl_communicator_verify)
 		- 인증서 및 SSL 통신 코드 
 - [test](https://github.com/ohseongtaek/Sample_Code/tree/main/test)
-	- Steganographt 생성 및 인식 코드 
+	- Steganography 생성 및 인식 코드 
 	- QR Code 생성 코드 
 	- 이미지 바이너리를 이용한 이미지 변환 코드 
 	- SHA256 해시 코드 
