@@ -36,10 +36,10 @@
 ### 킹스정보통신(주) `재직중`
 *2022.12 재입사*
 - 환경 
-        - IDE : Visual Studio
-        - DB : Mysql, Sqlite3
-        - 운영체제 : Windows, Linux, MACOS
-        - 개발언어 : C/C++
+  - IDE : Visual Studio
+  - DB : Mysql, Sqlite3
+  - 운영체제 : Windows, Linux, MACOS
+  - 개발언어 : C/C++
 - 프로젝트
   - DL E&C
     - 스냅태그 SDK 연동 
@@ -65,10 +65,10 @@
 ### 서일대학교(직원)
 *2022.08 입사 ~ 2022.11퇴사*
 - 환경 
-        - IDE : Java 1.6, Xplatform 9.2, MyBuilder
-        - DB : 오라클 11g
-        - 운영체제 : Windows 
-        - 개발언어 : JAVA
+  - IDE : Java 1.6, Xplatform 9.2, MyBuilder
+  - DB : 오라클 11g
+  - 운영체제 : Windows 
+  - 개발언어 : JAVA
 - 프로젝트
   - 학사종합정보시스템
     - MyBuilder 을 통한 Report 표시 기능 개발
@@ -83,10 +83,10 @@
 ### 킹스정보통신(주) 
 *2021.06 입사 ~ 2022.08퇴사*
 - 환경 
-        - IDE : Visual Studio
-        - DB : Mysql, Sqlite3
-        - 운영체제 : Windows, Linux, MACOS
-        - 개발언어 : C/C++
+  - IDE : Visual Studio
+  - DB : Mysql, Sqlite3
+  - 운영체제 : Windows, Linux, MACOS
+  - 개발언어 : C/C++
 - 프로젝트
   - 신용협동조합
     - Adobe Acrobat 관련 샌드박스 기능 연구 및 값 제어 개발
