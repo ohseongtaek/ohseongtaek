@@ -32,7 +32,16 @@
 
 <br></br>
 
-## 3. 경력사항
+## 3. 보유자격증
+ - 정보처리기사
+ - 정보처릭산업기사
+ - 정보보안산업기사
+ - 네트워크관리사2급
+ - 리눅스마스터2급
+ - 운전면허1종보통
+
+<br></br>
+## 4. 경력사항
 ### 킹스정보통신(주) `재직중`
 *2022.12 재입사*
 - 환경 
@@ -127,7 +136,7 @@
 
 <br></br>
 
-## 4. Repository
+## 5. Repository
 :heavy_check_mark: [Sample_Code](https://github.com/ohseongtaek/Sample_Code)
 
 - [Project](https://github.com/ohseongtaek/Sample_Code/tree/main/Project)
