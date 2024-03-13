@@ -126,6 +126,19 @@
         - 베트남팀과 협업을 통한 UI 설계 및 API 연동 
         - trie Algorithm 을 이용한 KeyBoard Search 기능 향상 
 
+<br></br>
+
+## 4. Repository
+### Sample_Code 
+### Information_Security_Project
+### Programmers_Algorithm Public
+### OCR
+### BaekJoon_Algorithm
+### MFC_Study
+### GAME
+### Study
+### SW_Expert_Academy
+
 <!--<br></br>
 ## Git Status
 
