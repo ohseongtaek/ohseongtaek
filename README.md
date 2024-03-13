@@ -131,17 +131,13 @@
 ## 4. Repository
 :heavy_check_mark: Sample_Code 
 
-        - Project 
-	
-		- Communicator
-  
-			- 비동기 논블록킹 리눅스 Epoll 파일 서버 코드 
+- Project 
+	- Communicator
+   		- 비동기 논블록킹 리눅스 Epoll 파일 서버 코드 
+   		- 비동기 논블록킹 윈도우 IOCP 파일 서버 코드 
+   		- 비동기 논블록킹 윈도우 IOCP 파일 클라이언트 코드 
    
-			- 비동기 논블록킹 윈도우 IOCP 파일 서버 코드 
-   
-			- 비동기 논블록킹 윈도우 IOCP 파일 클라이언트 코드 
-   
-		- DocumentTextExtractor
+	- DocumentTextExtractor
   
 			- Windows Hwpx, xlsx 문서 텍스트 추출 Code 
    
