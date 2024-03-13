@@ -152,7 +152,41 @@
 	- 디렉토리 보안속성 얻기 코드 
 	- 프린트 디바이스 정보 얻기 코드 
 	- Opencv 이미지 전처리 및 OCR인식 코드 
-	- IOCP을 통한 파일 바이트 덮어쓰기 및 완전삭제 코드 
+	- IOCP을 통한 파일 바이트 덮어쓰기 및 완전삭제 코드
+
+ :heavy_check_mark: [Information_Security_Project](https://github.com/ohseongtaek/Information_Security_Project)
+ 
+- [Command Cleanup Document](https://github.com/ohseongtaek/Information_Security_Project/tree/main/Command%20Cleanup%20Document)
+	- Windows, Linux 등 공부내용 정리 
+- [Hacker Team](https://github.com/ohseongtaek/Information_Security_Project/tree/main/Hacker%20Team)
+	- CTF, WebGoat, WebHacking 해결 문서 
+- [Main project](https://github.com/ohseongtaek/Information_Security_Project/tree/main/Main%20project)
+	- 웹취약점, CTF, WarGame 문제 풀이 
+	- [DLP 관련 KKITS 추계 학술 논문](https://github.com/ohseongtaek/Information_Security_Project/tree/main/Main%20project/04_DLP_QRCode_Paper)
+- [sub project](https://github.com/ohseongtaek/Information_Security_Project/tree/main/sub%20project)
+	- AWS 서버 구성 
+	- BOF, CTF, IRC 취약점 분석 및 문제풀이 
+	- Openvas 구성  
+	
+:heavy_check_mark: [MFC_Study](https://github.com/ohseongtaek/MFC_Study)
+	- MFC 관련 Windows API 숙달을 위한 다양한 공부 코드 
+	- Injection, Minhook Library를 통한 API Hooking 코드 
+	
+:heavy_check_mark: [OCR](https://github.com/ohseongtaek/OCR)
+	- Python및 Tesseract API를 이용한 간단한 OCR 프로젝트 
+
+:heavy_check_mark: [GAME](https://github.com/ohseongtaek/GAME)
+	- 테트리스 콘솔 게임 코드 
+	- 길찾기 콘솔 게임 코드 
+
+:heavy_check_mark: [Programmers_Algorithm](https://github.com/ohseongtaek/Programmers_Algorithm)
+	- 프로그래머스 Level 0,1,2,3 문제풀이 (C++진행)
+
+:heavy_check_mark: [BaekJoon_Algorithm](https://github.com/ohseongtaek/BaekJoon_Algorithm)
+	- 백준알고리즘 문제풀이 (C++진행)
+
+:heavy_check_mark: [SW_Expert_Academy](https://github.com/ohseongtaek/SW_Expert_Academy)
+	- SW Expert Academy 문제풀이 (C++진행)
    
   
 <!--<br></br>
