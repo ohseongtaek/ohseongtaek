@@ -129,66 +129,32 @@
 <br></br>
 
 ## 4. Repository
-:heavy_check_mark: Sample_Code 
-
-[Project](https://github.com/ohseongtaek/Sample_Code/tree/main/Project)
+:heavy_check_mark: [Sample_Code](https://github.com/ohseongtaek/Sample_Code)
 
 - [Project](https://github.com/ohseongtaek/Sample_Code/tree/main/Project)
-	- Communicator
-   		- 비동기 논블록킹 리눅스 Epoll 파일 서버 코드 
-   		- 비동기 논블록킹 윈도우 IOCP 파일 서버 코드 
-   		- 비동기 논블록킹 윈도우 IOCP 파일 클라이언트 코드 
-   
-	- DocumentTextExtractor
-  
-			- Windows Hwpx, xlsx 문서 텍스트 추출 Code 
-   
-		- mailsender
-  
-			- 이메일 전송 코드 
-   
-		- ssl_communicator_verify
-  
-			- 인증서 및 SSL 통신 코드 
-
- - test 
-		- Steganographt 생성 및 인식 코드
-   
-		- QR Code 생성 코드
-   
-		- 이미지 바이너리를 이용한 이미지 변환 코드
-   
-		- SHA256 해시 코드
-   
-		- MySQL 연결 및 쿼리조회 코드
-   
-		- Key-Chain을 통한 암복호화 코드
-   
-		- 디렉토리 보안속성 얻기 코드
-   
-		- 프린트 디바이스 정보 얻기 코드
-   
-		- Opencv 이미지 전처리 및 OCR인식 코드
-   
-		- IOCP을 통한 파일 바이트 덮어쓰기 및 완전삭제 코드
+	- [Communicator](https://github.com/ohseongtaek/Sample_Code/tree/main/Project/Communicator)
+		- 비동기 논블록킹 리눅스 Epoll 파일 서버 코드 
+		- 비동기 논블록킹 윈도우 IOCP 파일 서버 코드 
+		- 비동기 논블록킹 윈도우 IOCP 파일 클라이언트 코드 
+	- [DocumentTextExtractor](https://github.com/ohseongtaek/Sample_Code/tree/main/Project/DocumentTextExtractor)
+		- Windows Hwpx, xlsx 문서 텍스트 추출 Code 
+	- [mailsender](https://github.com/ohseongtaek/Sample_Code/tree/main/Project/mailsender)
+		- 이메일 전송 코드 
+	- [ssl_communicator_verify](https://github.com/ohseongtaek/Sample_Code/tree/main/Project/ssl_communicator_verify)
+		- 인증서 및 SSL 통신 코드 
+- [test](https://github.com/ohseongtaek/Sample_Code/tree/main/test)
+	- Steganographt 생성 및 인식 코드 
+	- QR Code 생성 코드 
+	- 이미지 바이너리를 이용한 이미지 변환 코드 
+	- SHA256 해시 코드 
+	- MySQL 연결 및 쿼리조회 코드 
+	- Key-Chain을 통한 암복호화 코드 
+	- 디렉토리 보안속성 얻기 코드 
+	- 프린트 디바이스 정보 얻기 코드 
+	- Opencv 이미지 전처리 및 OCR인식 코드 
+	- IOCP을 통한 파일 바이트 덮어쓰기 및 완전삭제 코드 
    
   
-:heavy_check_mark: Information_Security_Project
-
-:heavy_check_mark: Programmers_Algorithm Public
-
-:heavy_check_mark: OCR
-
-:heavy_check_mark: BaekJoon_Algorithm
-
-:heavy_check_mark: MFC_Study
-
-:heavy_check_mark: GAME
-
-:heavy_check_mark: Study
-
-:heavy_check_mark: SW_Expert_Academy
-
 <!--<br></br>
 ## Git Status
 
