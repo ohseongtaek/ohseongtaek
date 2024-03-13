@@ -8,7 +8,8 @@
 
 <br></br>
 
-##<span style="color:yellow">1. 일하는 습관</span>
+<span style="color:red"> 글씨색 변경 </span>
+## <span style="color:yellow">1. 일하는 습관</span>
 
 :heavy_check_mark: 다양한 기술을 접하고 체득하는것을 좋아하는 **개발자** 입니다.
 
