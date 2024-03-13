@@ -169,24 +169,31 @@
 	- Openvas 구성  
 	
 :heavy_check_mark: [MFC_Study](https://github.com/ohseongtaek/MFC_Study)
-	- MFC 관련 Windows API 숙달을 위한 다양한 공부 코드 
-	- Injection, Minhook Library를 통한 API Hooking 코드 
+
+- MFC 관련 Windows API 숙달을 위한 다양한 공부 코드 
+
+- Injection, Minhook Library를 통한 API Hooking 코드 
 	
 :heavy_check_mark: [OCR](https://github.com/ohseongtaek/OCR)
-	- Python및 Tesseract API를 이용한 간단한 OCR 프로젝트 
+
+- Python및 Tesseract API를 이용한 간단한 OCR 프로젝트 
 
 :heavy_check_mark: [GAME](https://github.com/ohseongtaek/GAME)
-	- 테트리스 콘솔 게임 코드 
-	- 길찾기 콘솔 게임 코드 
+
+- 테트리스 콘솔 게임 코드 
+
+- 길찾기 콘솔 게임 코드 
 
 :heavy_check_mark: [Programmers_Algorithm](https://github.com/ohseongtaek/Programmers_Algorithm)
-	- 프로그래머스 Level 0,1,2,3 문제풀이 (C++진행)
+
+- 프로그래머스 Level 0,1,2,3 문제풀이 (C++진행)
 
 :heavy_check_mark: [BaekJoon_Algorithm](https://github.com/ohseongtaek/BaekJoon_Algorithm)
-	- 백준알고리즘 문제풀이 (C++진행)
+
+- 백준알고리즘 문제풀이 (C++진행)
 
 :heavy_check_mark: [SW_Expert_Academy](https://github.com/ohseongtaek/SW_Expert_Academy)
-	- SW Expert Academy 문제풀이 (C++진행)
+- SW Expert Academy 문제풀이 (C++진행)
    
   
 <!--<br></br>
