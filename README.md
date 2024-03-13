@@ -41,7 +41,11 @@
  - 운전면허1종보통
 
 <br></br>
-## 4. 경력사항
+
+## 4. 학력
+ - 서일대학교(4년제) 정보통신공학과 졸업
+
+## 5. 경력사항
 ### 킹스정보통신(주) `재직중`
 *2022.12 재입사*
 - 환경 
@@ -136,7 +140,7 @@
 
 <br></br>
 
-## 5. Repository
+## 6. Repository
 :heavy_check_mark: [Sample_Code](https://github.com/ohseongtaek/Sample_Code)
 
 - [Project](https://github.com/ohseongtaek/Sample_Code/tree/main/Project)
