@@ -54,7 +54,7 @@
   - IDE : Visual Studio
   - DB : Mysql, Sqlite3
   - 운영체제 : Windows, Linux, MACOS
-  - 개발언어 : C/C++
+  - 개발언어 : C/C++, Objective-C
 - 프로젝트
   - DL E&C
     - 스냅태그 SDK 연동 
@@ -70,6 +70,7 @@
       - 이미지 전처리를 통한 이미지 인식률 개선 및 속도 15초에서 2초로 단축
       - 이미지 텍스트 좌표 검출 및 개인정보 마스킹 기능 개발 
   - 공통
+    - MAC OS 유지보수 및 개발
     - DLL Injection 기술 개발 및 Api hooking 기술을 통해 프린트 모듈 제어 개발 및 유지보수
     - 파일 서버 개발
       - Linux Log Server, Linux File Server Epoll 을 이용한 개발
@@ -101,7 +102,7 @@
   - IDE : Visual Studio
   - DB : Mysql, Sqlite3
   - 운영체제 : Windows, Linux, MACOS
-  - 개발언어 : C/C++
+  - 개발언어 : C/C++, Objective-C
 - 프로젝트
   - 신용협동조합
     - Adobe Acrobat 관련 샌드박스 기능 연구 및 값 제어 개발
