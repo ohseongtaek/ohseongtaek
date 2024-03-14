@@ -1,4 +1,5 @@
 #                                                         [오성택 포트폴리오](https://github.com/ohseongtaek)
+*"오성택 포트폴리오" 를 누르면 원본으로 이동합니다.*
 ##### 5년차 C/C++ 개발자
 ##### Email : post4204@naver.com
  
