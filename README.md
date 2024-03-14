@@ -139,9 +139,6 @@ ___
         - 베트남팀과 협업을 통한 UI 설계 및 API 연동 
         - trie Algorithm 을 이용한 KeyBoard Search 기능 향상 
 
-<br></br>
-
-
 ## **${\textsf{\color{green}6. Repository}}$**
 :heavy_check_mark: [Sample_Code](https://github.com/ohseongtaek/Sample_Code)
 
