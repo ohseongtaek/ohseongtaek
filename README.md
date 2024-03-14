@@ -217,7 +217,9 @@ ___
 - SW Expert Academy 문제풀이 (C++진행)
  ___
 
+💬문의가 있으시면 상단 메일로 연락주세요
 
+<span style="color:red"> 글씨색 변경 </span>
    
   
 <!--<br></br>
@@ -230,7 +232,7 @@ ___
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=post1594)](https://solved.ac/post1594/)
 -->
 
-💬문의가 있으시면 상단 메일로 연락주세요
+
 
 
 <!--
