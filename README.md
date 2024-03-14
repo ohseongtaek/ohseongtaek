@@ -8,7 +8,7 @@
 
 ### 안녕하세요👋 끊임없이 공부하는 개발자 오성택입니다!
 
-## 1. 자기소개
+## **${\textsf{\color{green}1. 자기소개}}$**
 
 :heavy_check_mark: 다양한 기술을 접하고 체득하는것을 좋아하는 **개발자** 입니다.
 
@@ -20,7 +20,7 @@
 
 
 
-## 2. 기술스택
+## **${\textsf{\color{green}2. 기술스택}}$**
 #### 개발 언어 
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=black"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/-Objective%20C-orange"/>
 
@@ -31,7 +31,7 @@
 - <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=black"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=black"/> <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=black"/> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=black"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=black"/> <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=black"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=black"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=black"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/> <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=black"/>
 
 
-## 3. 보유자격증
+## **${\textsf{\color{green}3. 보유자격증}}$**
  - 정보처리기사
  - 정보처릭산업기사
  - 정보보안산업기사
@@ -40,12 +40,12 @@
  - 운전면허1종보통
 
 
-## 4. 학력
+## **${\textsf{\color{green}4. 학력}}$**
  - 하남시 소재 신장고등학교 졸업
  - 서일대학교(4년제) 정보통신공학과 졸업
 
 
-## 5. 경력사항
+## **${\textsf{\color{green}5. 경력사항}}$**
 ### 킹스정보통신(주) `재직중`
 *2022.12 재입사*
 - 환경 
@@ -139,7 +139,7 @@ ___
         - 베트남팀과 협업을 통한 UI 설계 및 API 연동 
         - trie Algorithm 을 이용한 KeyBoard Search 기능 향상 
 
-## 6. Repository
+## **${\textsf{\color{green}6. Repository}}$**
 :heavy_check_mark: [Sample_Code](https://github.com/ohseongtaek/Sample_Code)
 
 - [Project](https://github.com/ohseongtaek/Sample_Code/tree/main/Project)
