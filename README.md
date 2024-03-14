@@ -1,12 +1,13 @@
+
 #                                                         [오성택 포트폴리오](https://github.com/ohseongtaek)
 *"오성택 포트폴리오" 를 누르면 원본으로 이동합니다.*
 ##### 5년차 C/C++ 개발자
 ##### Email : post4204@naver.com
  
-<br></br>
+
 
 ### 안녕하세요👋 끊임없이 공부하는 개발자 오성택입니다!
-<br></br>
+
 
 ## 1. 자기소개
 
@@ -18,7 +19,7 @@
 
 :heavy_check_mark: 휴일에 개인적인 프로젝트를 진행하며 **개발/유지보수 능력을 향상**시킵니다.
 
-<br></br>
+
 
 ## 2. 기술스택
 #### 개발 언어 
@@ -30,7 +31,6 @@
 #### 개발 도구 
 - <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=black"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=black"/> <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=black"/> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=black"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=black"/> <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=black"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=black"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=black"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/> <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=black"/>
 
-<br></br>
 
 ## 3. 보유자격증
  - 정보처리기사
@@ -40,12 +40,10 @@
  - 리눅스마스터2급
  - 운전면허1종보통
 
-<br></br>
 
 ## 4. 학력
  - 서일대학교(4년제) 정보통신공학과 졸업
 
-<br></br>
 
 ## 5. 경력사항
 ### 킹스정보통신(주) `재직중`
@@ -77,7 +75,7 @@
       - Windows Log Server - Windows Log Client 구조 및 헤더 설계와 IOCP 를 이용한 개발
       - Windows File Server IOCP - Windows File Client IOCP 구조 및 헤더 설계와 IOCP을 이용한 개발
       - 통신 모듈 개발에 필요한 OpenSSL Helper Class 개발
-
+___
 ### 서일대학교(직원)
 *2022.08 입사 ~ 2022.11퇴사*
 - 환경 
@@ -95,7 +93,7 @@
     - 교내 백본~강의실PC 까지 네트워크 설계
     - 교내 무선 네트워크 통신 반경에 따른 설계
     - User 및 강의실별 Vlan 설정 
-
+___
 ### 킹스정보통신(주) 
 *2021.06 입사 ~ 2022.08퇴사*
 - 환경 
@@ -121,7 +119,7 @@
     - 프린트 원본로그 관련 Excel Gdip 그래픽 객체 관련 Hooking을 통해 정상원본로그 추출 기능 개발
     - 출력정보 제어를 통해 들어온 정보를 재출력할수있는 기능 개발
     - 프린트 제어 모듈 리팩토링을 통한 속도 개선
-      
+___
 ### 리드스피커코리아(주)
 *2020.01 입사 ~ 2021.05퇴사*
 - 환경
@@ -168,7 +166,7 @@
 	- 프린트 디바이스 정보 얻기 코드 
 	- Opencv 이미지 전처리 및 OCR인식 코드 
 	- IOCP을 통한 파일 바이트 덮어쓰기 및 완전삭제 코드
- <br></br>
+___
  
  :heavy_check_mark: [Information_Security_Project](https://github.com/ohseongtaek/Information_Security_Project)
  
@@ -183,40 +181,43 @@
 	- AWS 서버 구성 
 	- BOF, CTF, IRC 취약점 분석 및 문제풀이 
 	- Openvas 구성  
-<br></br>
+___
 
 :heavy_check_mark: [MFC_Study](https://github.com/ohseongtaek/MFC_Study)
 
 - MFC 관련 Windows API 숙달을 위한 다양한 공부 코드 
 
 - Injection, Minhook Library를 통한 API Hooking 코드 
-<br></br>
+___
 
 :heavy_check_mark: [OCR](https://github.com/ohseongtaek/OCR)
 
 - Python및 Tesseract API를 이용한 간단한 OCR 프로젝트 
-<br></br>
+___
 
 :heavy_check_mark: [GAME](https://github.com/ohseongtaek/GAME)
 
 - 테트리스 콘솔 게임 코드 
 
 - 길찾기 콘솔 게임 코드 
-<br></br>
+___
 
 :heavy_check_mark: [Programmers_Algorithm](https://github.com/ohseongtaek/Programmers_Algorithm)
 
 - 프로그래머스 Level 0,1,2,3 문제풀이 (C++진행)
-<br></br>
+___
 
 :heavy_check_mark: [BaekJoon_Algorithm](https://github.com/ohseongtaek/BaekJoon_Algorithm)
 
 - 백준알고리즘 문제풀이 (C++진행)
-<br></br>
+___
 
 :heavy_check_mark: [SW_Expert_Academy](https://github.com/ohseongtaek/SW_Expert_Academy)
 
 - SW Expert Academy 문제풀이 (C++진행)
+ ___
+
+
    
   
 <!--<br></br>
@@ -229,6 +230,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=post1594)](https://solved.ac/post1594/)
 -->
 
+💬문의가 있으시면 상단 메일로 연락주세요
 
 
 <!--
