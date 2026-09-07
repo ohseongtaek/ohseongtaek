@@ -20,14 +20,84 @@
 
 
 ## **${\textsf{\color{green}2. 기술스택}}$**
-#### 개발 언어 
-- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=black"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/-Objective%20C-orange"/>
 
-#### 개발 환경
-- <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=black"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/macOS-00000?style=flat-square&logo=macOS&logoColor=black"/> <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=Kali Linux&logoColor=black"/>
+#### 개발 언어
 
-#### 개발 도구 
-- <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=black"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=black"/> <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=black"/> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=black"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=black"/> <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=black"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=black"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=black"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/> <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=black"/>
+* <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+#### 운영체제 및 개발 환경
+
+* <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+
+#### 네트워크 및 시스템
+
+* <img src="https://img.shields.io/badge/TCP%2FIP-005571?style=flat-square&logo=protocols&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket-333333?style=flat-square&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IOCP-333333?style=flat-square&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/epoll-333333?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/io_uring-333333?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AF--PACKET-333333?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Multithreading-333333?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IPC-333333?style=flat-square&logo=linux&logoColor=white"/>
+
+#### 데이터베이스
+
+* <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+
+#### 메시징 및 데이터 처리
+
+* <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Debezium-000000?style=flat-square&logo=debezium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white"/>
+
+#### 서버 및 인프라
+
+* <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Harbor-60B932?style=flat-square&logo=harbor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lighttpd-333333?style=flat-square&logo=lighttpd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white"/>
+
+#### 개발 도구
+
+* <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+
+#### 버전 관리 및 협업
+
+* <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=subversion&logoColor=white"/>
+
+#### 빌드 및 테스트
+
+* <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCC-333333?style=flat-square&logo=gnu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GDB-333333?style=flat-square&logo=gnu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white"/>
+
+#### 보안 및 분석 도구
+
+* <img src="https://img.shields.io/badge/Syft-333333?style=flat-square&logo=anchore&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grype-333333?style=flat-square&logo=anchore&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fossology-333333?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FOSSlight-333333?style=flat-square&logo=linux&logoColor=white"/>
 
 
 ## **${\textsf{\color{green}3. 보유자격증}}$**
