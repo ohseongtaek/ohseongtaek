@@ -132,6 +132,7 @@
 *2020.01 입사 ~ 2021.05퇴사*
 
 
+<!--
 ## **${\textsf{\color{green}6. Repository}}$**
 :heavy_check_mark: [Sample_Code](https://github.com/ohseongtaek/Sample_Code)
 
@@ -158,6 +159,7 @@
 	- Opencv 이미지 전처리 및 OCR인식 코드 
 	- IOCP을 통한 파일 바이트 덮어쓰기 및 완전삭제 코드
 ___
+-->
  
  :heavy_check_mark: [Information_Security_Project](https://github.com/ohseongtaek/Information_Security_Project)
  
